@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58639" started-at="2019-02-13T11:45:59Z" finished-at="2019-02-13T11:46:58Z">
+    <groups>
+    </groups>
+    <test name="FunctionalTest" duration-ms="58639" started-at="2019-02-13T11:45:59Z" finished-at="2019-02-13T11:46:58Z">
+      <class name="com.qa.practice.testcases.ApplicationFormTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.practice.testcases.ApplicationFormTest@3ffc5af1]" name="setUp" is-config="true" duration-ms="5836" started-at="2019-02-13T12:46:00Z" finished-at="2019-02-13T12:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CreateUserForm()[pri:0, instance:com.qa.practice.testcases.ApplicationFormTest@3ffc5af1]" name="CreateUserForm" duration-ms="42222" started-at="2019-02-13T12:46:05Z" finished-at="2019-02-13T12:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserForm -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.practice.testcases.ApplicationFormTest@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="2078" started-at="2019-02-13T12:46:48Z" finished-at="2019-02-13T12:46:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.practice.testcases.ApplicationFormTest@3ffc5af1]" name="setUp" is-config="true" duration-ms="6348" started-at="2019-02-13T12:46:50Z" finished-at="2019-02-13T12:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateMsg()[pri:0, instance:com.qa.practice.testcases.ApplicationFormTest@3ffc5af1]" name="validateMsg" duration-ms="46" started-at="2019-02-13T12:46:56Z" finished-at="2019-02-13T12:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMsg -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.practice.testcases.ApplicationFormTest@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="2082" started-at="2019-02-13T12:46:56Z" finished-at="2019-02-13T12:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.practice.testcases.ApplicationFormTest -->
+    </test> <!-- FunctionalTest -->
+  </suite> <!-- Suite -->
+</testng-results>
